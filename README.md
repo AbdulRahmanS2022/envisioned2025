@@ -11,7 +11,6 @@ Arabic shows first. The button in the top menu switches to English and back, and
 3. Go to **Settings > Pages**, choose branch `main` and folder `/ (root)`, then save. The site goes live at `https://YOUR_USER.github.io/rational-mind/`.
 
 ## Before you publish
-- In `index.html`, replace `YOUR_HANDLE` with your Instagram username.
 - Spot-check each DOI link. Two entries (Koivisto & Grassini 2023; Doshi & Hauser 2024) were verified against the publishers' records while building; the rest were written from memory of the literature, so confirm details before you rely on them.
 - **Photo licensing (important):** the 15 photos in `images/` came from your Word file. That file lists where each image was found, not who took it, and several came from stock agencies (iStock, Vecteezy), product pages and blogs, which do not guarantee free commercial use. The hero and writer photos carry Vecteezy watermarks. Before going public, replace each with a licensed or free-licence photo (Unsplash, Pexels, Pixabay), keeping the same file name, and then add a credit only when the photographer is known (see the comment near the end of `index.html`). Photos whose photographer is unknown are shown without any credit line.
 - The photos are small (some under 400 px wide), so they may look soft on large screens.
